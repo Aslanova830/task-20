@@ -1,0 +1,16 @@
+.btn{
+    border: 0;
+    padding: 10px;
+}
+.btn-primary{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: 0;
+    
+}
+
+.btn-success{
+    background-color: blue;
+    color: azure;
+    border: none;
+}
